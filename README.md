@@ -3,7 +3,8 @@
 Задача: доработать компонент FormBuilder.vue для создания/генерирования форм из
 конфига;
 
-<img width="1439" alt="Снимок экрана 2024-11-26 в 14 01 51" src="https://github.com/user-attachments/assets/65495465-0837-4401-9941-70508c3dce9e">
+<img width="1439" alt="Снимок экрана 2024-11-26 в 16 00 04" src="https://github.com/user-attachments/assets/3e3e7aee-7564-4fa2-a34e-e73013acb317">
+
 
 ## Краткое описание
 
