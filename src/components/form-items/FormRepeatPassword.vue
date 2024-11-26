@@ -1,5 +1,5 @@
 <template>
-  <FormPassword v-model="internalValue" />
+  <FormPassword v-model="internalValue" :label="label"/>
 </template>
 
 <script>
